@@ -1,6 +1,9 @@
-### List footbal club Development SocketIo, and NodeJS.
+### List footbal club development SocketIo, and NodeJS.
 
-**Forked from [Chat-Server]( https://github.com/DevStack06/Chat-Server.git)**
+
+this project forked from **[Chat-Server]( https://github.com/DevStack06/Chat-Server.git)**
+
+
 ### To use this app follow below instructions-:
 
 1. Clone this app using below syntax -:
